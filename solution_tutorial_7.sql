@@ -50,4 +50,4 @@
     FROM actor JOIN casting ON actor.id = casting.actorid JOIN movie ON casting.movieid = movie.id
     WHERE yr = 1962 AND ord=1
 
--- ============================
+-- =============================================================================================================
